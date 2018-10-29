@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.app.DatePickerDialog void setOnDateSetListener(android.app.DatePickerDialog.OnDateSetListener) 0'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
